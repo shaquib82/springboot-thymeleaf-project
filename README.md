@@ -41,13 +41,13 @@ This project is a Spring Boot application using Thymeleaf for templating. It ser
    Open your browser and go to http://localhost:8080.
 
 
-Usage
+### Usage
 - View Employees: Navigate to /employees/list to see the list of employees.
 - Add Employee: Go to /employees/showFormForAdd to add a new employee.
 - Update Employee: Use /employees/showFormForUpdate/{id} to update an existing employee.
 - Delete Employee: Click on the delete button next to an employee in the list to remove them.
 - 
-Contributing
+### Contributing
 
 - Fork the Repository: Create your own fork of the repository.
 - Clone Your Fork: Clone your fork to your local machine.
@@ -56,7 +56,7 @@ Contributing
 - Push Changes: Push your changes to your forked repository.
 - Create a Pull Request: Open a pull request to the original repository.
 
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
